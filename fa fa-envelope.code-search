@@ -1,0 +1,47 @@
+# Query: fa fa-envelope
+# ContextLines: 1
+
+9 results - 7 files
+
+contact.html:
+  305                                   <a href="mailto:bookings@restaurant.com">
+  306:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  307                                      <div class="details">
+
+gallery.html:
+  390                                   <a href="mailto:bookings@restaurant.com">
+  391:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  392                                      <div class="details">
+
+index.html:
+   299                 <div class="btn-row wow slideInRight">
+   300:                   <a href="contact.html" class="btn btn-primary btn-white"><i class="fa fa-envelope" aria-hidden="true"></i>
+   301                       Enquire now</a>
+
+  1833                                   <a href="mailto:bookings@restaurant.com">
+  1834:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  1835                                      <div class="details">
+
+menu.html:
+  1558                                   <a href="mailto:bookings@restaurant.com">
+  1559:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  1560                                      <div class="details">
+
+news-detail.html:
+  321                                   <a href="mailto:bookings@restaurant.com">
+  322:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  323                                      <div class="details">
+
+news.html:
+  307                                   <a href="mailto:bookings@restaurant.com">
+  308:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  309                                      <div class="details">
+
+story.html:
+  236                 <div class="btn-row wow slideInRight">
+  237:                   <a href="contact.html" class="btn btn-primary btn-white"><i class="fa fa-envelope" aria-hidden="true"></i>
+  238                       Enquire now</a>
+
+  306                                   <a href="mailto:bookings@restaurant.com">
+  307:                                     <i class="fa fa-envelope-o" aria-hidden="true"></i>
+  308                                      <div class="details">
